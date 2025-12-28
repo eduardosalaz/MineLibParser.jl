@@ -2,7 +2,7 @@
 
 A Julia library for parsing [MineLib](http://mansci.uai.cl/minelib) open pit mining optimization problem instances.
 
-[![Build Status](https://github.com/eduardosalaz/MineLibParser.jl/workflows/CI/badge.svg)](https://github.com/eduardosalaz/MineLibParser.jl/actions)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
